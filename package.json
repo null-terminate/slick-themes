@@ -1,0 +1,79 @@
+{
+	"name": "slick-themes",
+	"displayName": "Slick Themes",
+	"description": "Vibrant Dark Color Themes",
+	"icon": "assets/logo.png",
+	"version": "1.0.0",
+	"publisher": "null-terminate",
+	"private": true,
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/null-terminate/slick-themes.git"
+	},
+	"engines": {
+		"vscode": "*"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Slick Green",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickGreen-color-theme.json"
+			},
+			{
+				"label": "Slick Pink",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickPink-color-theme.json"
+			},
+			{
+				"label": "Slick Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickBlue-color-theme.json"
+			},
+			{
+				"label": "Slick Yellow",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickYellow-color-theme.json"
+			},
+			{
+				"label": "Slick Orange",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickOrange-color-theme.json"
+			},
+			{
+				"label": "Slick Red",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickRed-color-theme.json"
+			},
+			{
+				"label": "Slick Cyan",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickCyan-color-theme.json"
+			},
+			{
+				"label": "Slick Grey",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickGrey-color-theme.json"
+			},
+			{
+				"label": "Slick Lavender",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickLavender-color-theme.json"
+			},
+			{
+				"label": "Slick Olive",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickOlive-color-theme.json"
+			},
+			{
+				"label": "Slick Purple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SlickPurple-color-theme.json"
+			}
+		]
+	}
+}
