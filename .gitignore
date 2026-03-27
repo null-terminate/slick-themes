@@ -138,4 +138,6 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .DS_Store
-slick-themes-1.0.0.vsix
+
+# VSCode Extensions
+*.vsix
