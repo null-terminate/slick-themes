@@ -6,32 +6,17 @@ A collection of vibrant, dark color themes for Visual Studio Code. Each theme fe
 
 | Theme | Accent Color |
 |-------|-------------|
-| **Slick Green** | 🟢 Emerald green |
-| **Slick Pink** | 🩷 Hot pink |
 | **Slick Blue** | 🔵 Electric blue |
-| **Slick Yellow** | 🟡 Golden yellow |
-| **Slick Orange** | 🟠 Vibrant orange |
-| **Slick Red** | 🔴 Crimson red |
 | **Slick Cyan** | 🩵 Teal cyan |
+| **Slick Green** | 🟢 Emerald green |
 | **Slick Grey** | ⚪ Neutral grey |
 | **Slick Lavender** | 🪻 Soft lavender |
 | **Slick Olive** | 🫒 Earthy olive |
+| **Slick Orange** | 🟠 Vibrant orange |
+| **Slick Pink** | 🩷 Hot pink |
 | **Slick Purple** | 🟣 Bold purple |
-
-## Installation
-
-### From VSIX
-
-1. Download the `.vsix` file from the [releases](https://github.com/null-terminate/slick-themes/releases) page
-2. In VS Code, open the Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`)
-3. Run **Extensions: Install from VSIX...**
-4. Select the downloaded `.vsix` file
-
-### From Source
-
-1. Clone this repository
-2. Copy the folder to your VS Code extensions directory
-3. Restart VS Code
+| **Slick Red** | 🔴 Crimson red |
+| **Slick Yellow** | 🟡 Golden yellow |
 
 ## Activating a Theme
 
@@ -49,3 +34,38 @@ A collection of vibrant, dark color themes for Visual Studio Code. Each theme fe
 ## License
 
 [MIT](LICENSE)
+
+## Screenshots
+
+### Slick Blue
+![Slick Blue](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Blue.png)
+
+### Slick Cyan
+![Slick Cyan](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Cyan.png)
+
+### Slick Green
+![Slick Green](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Green.png)
+
+### Slick Grey
+![Slick Grey](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Grey.png)
+
+### Slick Lavender
+![Slick Lavender](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Lavender.png)
+
+### Slick Olive
+![Slick Olive](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Olive.png)
+
+### Slick Orange
+![Slick Orange](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Orange.png)
+
+### Slick Pink
+![Slick Pink](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Pink.png)
+
+### Slick Purple
+![Slick Purple](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Purple.png)
+
+### Slick Red
+![Slick Red](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Red.png)
+
+### Slick Yellow
+![Slick Yellow](https://raw.githubusercontent.com/null-terminate/slick-themes/main/screenshots/Slick-Yellow.png)
